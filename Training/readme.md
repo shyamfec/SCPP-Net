@@ -1,0 +1,5 @@
+- **Loss - binarycross entropy**
+- **Optimizer- ADAM**
+- **Epochs- 100**
+- **Callback Patiance -10**
+- **Learning rate- 0.0001 and 0.001 for attention Unet and dist**

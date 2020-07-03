@@ -1,0 +1,1 @@
+**Here we have created a Data Generation function which reads the images from the file. First we define the paths and ids of the images and pass it through in Data Generation function. How to use this function just go through demo folder.**
